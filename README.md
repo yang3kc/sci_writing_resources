@@ -9,5 +9,6 @@ Resources and tips for writing scientific articles
 # LaTeX
 
 - [Some personal tricks](personal_tricks.md)
+- [Recommendation for table design from `booktabs`](https://ctan.math.illinois.edu/macros/latex/contrib/booktabs/booktabs.pdf)
 - [Using Latexdiff For Marking Changes To Tex Documents](https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents): This is very useful when you need to produce a revised manuscript with changes highlighted
 - [Biblatex Cheat Sheet](https://tug.ctan.org/info/biblatex-cheatsheet/biblatex-cheatsheet.pdf)
